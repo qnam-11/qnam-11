@@ -16,13 +16,13 @@
   <p>Interest in AI since 2024. I'm currently studying computer science at Swinburne University of Technology and working to enhance my skills in AI Engineer. I'm also interested in Computer Vision, Deep Learning, Machine Learning and exploring ways to combine these fields.</p>
 </div>
 
-<div>
+<!-- <div>
   <h2>Github Status</h2>
   <div <div align="center">
     <img src="https://github-readme-stats.qnam-11.workers.dev/api/top-langs?username=qnam-11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <img src="https://github-readme-stats.qnam-11.workers.dev/api?username=qnam-11&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" height="150" alt="my_stats"  />
   </div>
-</div>
+</div> -->
 
 
 <div align="left">

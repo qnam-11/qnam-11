@@ -38,20 +38,20 @@
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VueJS-Dark.svg" height="35" alt="vue logo"  />
       <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AWS-Dark.svg" height="35" alt="aws logo"  />
-      <img width="10" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Tauri-Dark.svg" height="35" alt="tauri logo"  />
+      <!-- <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AWS-Dark.svg" height="35" alt="aws logo"  />
+      <img width="10" /> -->
+      <!-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Tauri-Dark.svg" height="35" alt="tauri logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PostgreSQL-Dark.svg" height="35" alt="mysql logo"  />
-      <img width="10" />
+      <img width="10" /> -->
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="35" alt="cplusplus logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CS.svg" height="35" alt="cs logo"  />
       <img width="10" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" height="35" alt="dotnet logo"  />
-      <img width="10" />
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" height="35" alt="go logo"  />
-      <img width="10" />
+      <!-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" height="35" alt="dotnet logo"  />
+      <img width="10" /> -->
+      <!-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" height="35" alt="go logo"  />
+      <img width="10" /> -->
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ruby.svg" height="35" alt="ruby logo"  />
     </div>
 </div>

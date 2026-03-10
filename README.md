@@ -38,8 +38,8 @@
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/VueJS-Dark.svg" height="35" alt="vue logo"  />
       <img width="10" />
-      <!-- <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/AWS-Dark.svg" height="35" alt="aws logo"  />
-      <img width="10" /> -->
+      <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" height="35" alt="aws logo"  />
+      <img width="10" />
       <!-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Tauri-Dark.svg" height="35" alt="tauri logo"  />
       <img width="10" />
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/PostgreSQL-Dark.svg" height="35" alt="mysql logo"  />

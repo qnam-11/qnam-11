@@ -46,7 +46,7 @@
       <img width="10" /> -->
       <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="35" alt="cplusplus logo"  />
       <img width="10" />
-      <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CS.svg" height="35" alt="cs logo"  />
+      <!-- <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CS.svg" height="35" alt="cs logo"  /> -->
       <img width="10" />
       <!-- <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" height="35" alt="dotnet logo"  />
       <img width="10" /> -->
